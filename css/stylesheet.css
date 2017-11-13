@@ -5,3 +5,7 @@
 nav {
   background-color: black;
 }
+.card-action {
+	font-family: Roboto-Regular;
+	font-size: 12px;
+}
