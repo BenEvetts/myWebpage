@@ -1,11 +1,18 @@
-.page-footer {
-  
-  background-color: black;
-}
 nav {
   background-color: black;
+	font-family: Roboto;
+}
+.card-title {
+	font-family: Roboto;
 }
 .card-action {
-	font-family: Roboto-Regular;
+	font-family: Roboto;
 	font-size: 12px;
+}
+.header {
+	font-family: Roboto;
+}
+.page-footer {
+  background-color: black;
+	font-family: Roboto;
 }
